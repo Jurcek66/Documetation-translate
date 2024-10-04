@@ -1,0 +1,33 @@
+name: Translate README
+on:
+  push:
+    paths:
+      - 'dokumentacija.md'  # Trigger the action on changes to README.md
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11.1'  # Use the desired version of Python
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install googletrans==4.0.0-rc1  # Install the translation library
+
+    - name: Run translation script
+      run: |
+        python prevedi.py  # Assuming you have a Python script named translate.py
+
+    - name: Commit translated files
+      run: |
+        git config --global user.name 'JureBrlogar'
+        git config --global user.email 'jure.brlogar@gmail.com'
+        git add dokumentacija_*.md
+        git commit -m "Avtomatski prevod dokumentacije.md"
+        git push
