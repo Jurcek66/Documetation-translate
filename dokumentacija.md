@@ -1,7 +1,5 @@
-Dobrodošli v testnem dokumentu, namenjenem preverjanju avtomatiziranega prevajanja tehnične dokumentacije z uporabo orodja GitHub Actions.
-Ta dokument vsebuje več odstavkov besedila, razdeljenih po vsebinskih sklopih, s čimer omogoča temeljito testiranje različnih jezikovnih struktur, formatiranja in tehničnih izrazov.
-
-Nasvidenje
+Welcome to the test document designed to check the automated translation of technical documentation using the GitHub Actions tool.
+This document contains several paragraphs of text, divided by subject area, allowing a thorough testing of different language structures, formatting and technical terms.
 
 
-preverimo če še vedno deluje
+let's see if it still works
