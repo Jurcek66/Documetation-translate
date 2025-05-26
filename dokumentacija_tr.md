@@ -1,9 +1,4 @@
-Bu çeviri projesinin belgeleridir.
+GitHub Eylem araçlarını kullanarak teknik belgelerin otomatik olarak çevirisini doğrulamak için tasarlanmış test belgesine hoş geldiniz.
+Bu belge, metnin farklı dilsel yapıların kapsamlı testine, biçimlendirme ve teknik terimlere izin veren, önemli bölümlere bölünmüş birkaç paragrafı içerir.
 
-Çalışıp çalışmadığını kontrol edin.
-
-Bir başkasına gitmek gibi olup olmadığını kontrol edelim.
-
-tutulacak ikinciye
-
-Türkçe olup olmayacağını merak ediyorum.
+Güle güle

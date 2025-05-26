@@ -1,9 +1,4 @@
-Ovo je dokumentacija projekta prijevoda.
+Dobrodošli u testni dokument osmišljen za provjeru automatiziranog prijevoda tehničke dokumentacije pomoću alata GitHub Actions.
+Ovaj dokument sadrži nekoliko odlomaka teksta, podijeljenih s materijalnim odjeljcima, omogućujući temeljito testiranje različitih jezičnih struktura, oblikovanja i tehničkih izraza.
 
-Provjerite djeluje li.
-
-Provjerimo je li to ići drugom.
-
-do drugog da se drži
-
-Pitam se hoće li ona biti na turskom jeziku.
+Zbogom
