@@ -1,7 +1,5 @@
-GitHub Eylem araçlarını kullanarak teknik belgelerin otomatik olarak çevirisini doğrulamak için tasarlanmış test belgesine hoş geldiniz.
-Bu belge, farklı dilsel yapıların, biçimlendirme ve teknik terimlerin kapsamlı bir şekilde test edilmesine izin veren, metnin önemli bölümlere bölünmüş birkaç paragrafını içerir.
-
-Güle güle
+GitHub Eylemler aracını kullanarak teknik belgelerin otomatik çevirisini kontrol etmek için tasarlanmış test belgesine hoş geldiniz.
+Bu belge, farklı dil yapılarının kapsamlı bir testine, biçimlendirme ve teknik terimlere izin veren konu alanına bölünmüş birkaç metin paragrafı içerir.
 
 
-Hala çalışıp çalışmadığını kontrol ediyoruz
+Bakalım hala çalışıyor mu
