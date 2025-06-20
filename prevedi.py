@@ -35,8 +35,12 @@ if __name__ == "__main__":
     hr_file = "dokumentacija_hr.md"
     sr_file = "dokumentacija_sr.md"
     tr_file = "dokumentacija_tr.md"
+    sl_file = "dokumentacija_sl.md"
+    de_file = "dokumentacija_ge.md"
 
     # zagon funkcije za prevod
     translate_file("dokumentacija.md", 'hr', hr_file)
     translate_file("dokumentacija.md", 'sr', sr_file)
     translate_file("dokumentacija.md", 'tr', tr_file)
+    translate_file("dokumentacija.md", 'sl', sl_file)
+    translate_file("dokumentacija.md", 'de', de_file)
